@@ -1,0 +1,20 @@
+Question No: 2
+Single File Programming Question
+Write a program that accepts a username and password as input and prints the same.
+
+Input format :
+The input consists of the user name and password separated by a space.
+
+Output format :
+The output prints the username and password.
+
+
+
+Refer to the sample output for the formatting specifications.
+
+Sample test cases :
+Input 1 :
+Alice alice@01
+Output 1 :
+Name: Alice
+Password: alice@01
