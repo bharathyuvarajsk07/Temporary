@@ -1,0 +1,47 @@
+Question No: 2
+Single File Programming Question
+Sasikumar is a mathematics teacher, and he is preparing a question paper of his own. He needs to calculate the answers to the questions he prepared without any errors. As he is busy with his work, he has no time to make it.
+
+
+
+Write the program and trace the output for the following expressions:
+
+
+
+a) x = a + b * 5 / 4 + c% 3 * 5, where a, b, and c are variables.
+
+b) y = u > v, u and v being variables (inputs).
+
+c) z = ++i && ++j && ++k; where i, j, and k are variables (inputs).
+
+Input format :
+The first line consists of three integers for the first expression, separated by a space.
+
+The second line consists of two integers for the second expression, separated by a space.
+
+The third line consists of three integers for the third expression, separated by a space.
+
+Output format :
+The output consists of the answers for the equations after substituting their corresponding values.
+
+
+
+Refer to the sample input and output for formatting specifications.
+
+Sample test cases :
+Input 1 :
+5 3 14
+2 4
+-5 6 0
+Output 1 :
+x = 18
+y = 4
+z = 1
+Input 2 :
+99 84 27
+4 574
+738 85 -382
+Output 2 :
+x = 204
+y = 574
+z = 1
