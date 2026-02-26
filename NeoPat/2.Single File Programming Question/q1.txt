@@ -1,0 +1,59 @@
+Question No: 1
+Single File Programming Question
+Problem Statement
+
+
+
+Raju is a young math enthusiast who loves to perform arithmetic operations on numbers. He recently learned about switch-case statements in programming and wanted to create a simple calculator program using them. Can you help Raju by writing a program that takes two numbers and an arithmetic operation using switch case as input and performs the corresponding operation?
+
+Input format :
+The input consists of three lines:
+
+
+
+The first line contains two integers, num1 and num2, separated by a space.
+
+The second line contains a character, ch, representing the arithmetic operation to be performed.
+
+The character can be one of the following: '+', '-', '*', or '/'.
+
+Output format :
+The output displays the result of the operation along with the operator, as shown in sample test cases.
+
+Print "Invalid Operation" for other operators.
+
+
+
+Refer to the sample output for the format specifications
+
+Code constraints :
+Both num1 and num2 are integers.
+
+The arithmetic operation should be one of the valid characters: '+', '-', '*', or '/'.
+
+Sample test cases :
+Input 1 :
+1 2
++
+Output 1 :
+The addition of the given numbers is 3.
+Input 2 :
+1 3
+%
+Output 2 :
+Invalid Operation
+Input 3 :
+10 8 
+
+Output 3 :
+The division of the given numbers is 1.25.
+Input 4 :
+4 3
+-
+Output 4 :
+The subtraction of the given numbers is 1.
+Input 5 :
+10 2
+*
+Output 5 :
+The multiplication of the given numbers is 20.
