@@ -1,0 +1,23 @@
+Question No: 1
+Single File Programming Question
+Problem Statement
+
+
+
+Write a program to calculate the sum of odd and even digits in a number.
+
+Input format :
+The input consists of a positive integer n.
+
+Output format :
+The output prints the sum of odd numbers and even numbers in the given integer n, separated by space.
+
+Sample test cases :
+Input 1 :
+2873546183037
+Output 1 :
+29 28
+Input 2 :
+28474366221
+Output 2 :
+11 34
