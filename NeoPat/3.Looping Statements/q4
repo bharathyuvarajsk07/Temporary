@@ -1,0 +1,23 @@
+Question No: 1
+Single File Programming Question
+The event organizing company "Buzzcraft" focuses on event management in a way that creates a win-win situation for all involved stakeholders. Buzzcraft doesn't look at building one-time associations with clients but instead aims to create long-lasting collaborations that will span years to come. This goal of the company has helped it evolve and expand greatly by organizing many events to date.
+
+
+
+The number of events that the company organizes every month is recorded and is deemed to have followed a specific series like 30, 35, 38, 41, 54, and 53 ...
+
+
+
+Write a program that takes an integer N as the input and will output the series until the Nth term.
+
+Input format :
+The input consists of an integer N.
+
+Output format :
+The output prints the series until the Nth term, separated by spaces.
+
+Sample test cases :
+Input 1 :
+25
+Output 1 :
+30 35 38 41 54 53 78 71 110 95 150 125 198 161 254 203 318 251 390 305 470 365
