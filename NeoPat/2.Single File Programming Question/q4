@@ -1,0 +1,35 @@
+Question No: 1
+Single File Programming Question
+Carrom is a board game where two participants (teams) play. It consists of 9 white coins, 9 black coins, and a red coin. The first team to finish all their coins wins (given that red has been pocketed by one of the teams). The points are awarded based on the number of left-over coins from the losing team on the board. If the winning team has pocketed the red, they get an additional 5 points.
+
+
+
+Write a program to compute the score of the winner at the end of a round.
+
+
+
+If the number of coins left on the board is either less than 1 or greater than 9, display "Invalid Input".
+
+Input format :
+The input consists of an integer that corresponds to the number of coins left on the board and a character that corresponds to whether the winning team has pocketed red or not.
+
+Output format :
+The output displays the total points won.
+
+Print "Invalid Input" if the number of coins is less than one or greater than nine.
+
+
+
+Refer to the sample input and output for formatting specifications.
+
+Sample test cases :
+Input 1 :
+5
+y
+Output 1 :
+10
+Input 2 :
+10
+n
+Output 2 :
+Invalid Input
