@@ -1,0 +1,35 @@
+Question No: 2
+Single File Programming Question
+In connection with the National Mathematics Day celebration, the Regional Mathematical Scholars Society had arranged for a Mathematics Challenge Event where school kids participated in large numbers. Many interesting math games were conducted, one such game that attracted most kids was the tile game, where the kids were given 'n' square tiles of the same size and were asked to form the largest possible square using those tiles.
+
+
+
+Help the kids by writing a program to find the area of the largest possible square that can be formed, given the side of a square tile (in cms) and the number of square tiles available.
+
+Input format :
+The first line of the input is an integer that corresponds to the side of a square tile (in cms).
+
+The second line of the input is an integer that corresponds to the number of square tiles available.
+
+
+
+Refer to the sample input for formatting specifications.
+
+Output format :
+The output should display the area of the largest possible square that can be formed (in square cms) with the available tiles.
+
+
+
+Refer to the sample output for formatting specifications.
+
+Sample test cases :
+Input 1 :
+5
+8
+Output 1 :
+Area of the largest possible square is 100sqcm.
+Input 2 :
+2
+12
+Output 2 :
+Area of the largest possible square is 36sqcm.
