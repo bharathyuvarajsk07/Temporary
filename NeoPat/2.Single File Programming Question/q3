@@ -1,0 +1,19 @@
+Question No: 3
+Single File Programming Question
+Write a program in which when two integers x and y are given as input, the absolute difference between the two integers is output. That is, whichever one of x-y or y-x is positive.
+
+Input format :
+The input consists of two integers, x and y, separated by a space.
+
+Output format :
+The output prints the absolute difference between the two integers.
+
+Sample test cases :
+Input 1 :
+10 5
+Output 1 :
+5
+Input 2 :
+15 45
+Output 2 :
+30
