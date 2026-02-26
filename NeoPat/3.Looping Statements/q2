@@ -1,0 +1,36 @@
+Single File Programming Question
+Seven-Segment Display:
+
+
+
+"Buzzcraft" wanted to buy seven segment displays to display any numeric information display boards, scrolling ad banners, and so on at their events. The company contracted out its order to the MDC team at orange labs, which designs embedded sensing nodes and provides connectivity to tie them to the internet of things.
+
+
+
+They are working on building seven-segment displays. But the company wanted to know how many seven-segment displays they would need to represent an integer. They use one seven-segment display to represent one digit of an integer. 
+
+
+
+For example, the integer "100" needs "3" seven-segment boards to be represented.
+
+
+
+Help them find out how many displays are needed.
+
+
+
+Input format :
+The input consists of an integer.
+
+Output format :
+The output displays the number of digits of that integer.
+
+Sample test cases :
+Input 1 :
+1
+Output 1 :
+1
+Input 2 :
+999
+Output 2 :
+3
