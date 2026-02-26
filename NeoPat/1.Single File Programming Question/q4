@@ -1,0 +1,23 @@
+Question No: 1
+Single File Programming Question
+Write a program to find whether the given number is odd or even using operators.
+
+Input format :
+The input consists of an integer.
+
+Output format :
+The output displays whether the given number is odd or even.
+
+
+
+Refer to the sample input and output for the formatting specifications.
+
+Sample test cases :
+Input 1 :
+13
+Output 1 :
+The given number is odd.
+Input 2 :
+10
+Output 2 :
+The given number is even.
