@@ -1,0 +1,19 @@
+Question No: 3
+Single File Programming Question
+Write a program to find the greatest number using the conditional operator.
+
+Input format :
+The input consists of three integers separated by a space.
+
+Output format :
+The output displays the greatest of the three integers.
+
+Sample test cases :
+Input 1 :
+13 25 6
+Output 1 :
+25
+Input 2 :
+12 34 34
+Output 2 :
+34
