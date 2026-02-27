@@ -1,0 +1,13 @@
+Print an array of the elements that do not sum to n = 3
+[[0, 0, 0], [0, 0, 1], [0, 0, 2], [0, 1, 0], [0, 1, 1], [1, 0, 0], [1, 0, 1], [1, 1, 0], [1, 1, 2]]
+Input Format
+Four integers x, y, z and n, each on a separate line.
+Constraints
+Print the list in lexicographic increasing order.
+Sample Input O
+1
+1
+1
+2
+Sample Output O
+[[0, 0, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1]]
