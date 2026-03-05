@@ -1,0 +1,2 @@
+Logging User Authentication:
+Comments are used to describe the authentication process in a Java program. They indicate each stage, such as validating credentials and granting access, making the code easier to understand. Java supports single-line comments (//) for brief explanations.
